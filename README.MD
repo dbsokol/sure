@@ -8,7 +8,7 @@
 - This application is a backend-only application that leverages Django and Django REST Framework. 
 - Interactions are done through standard REST calls.
 - This application includes swagger (and redoc) documentation for a detailed explanation of the API.
-- This application also incldues (some) test cases, a code coverage report, and is containerized for ease of use.
+- This application also includes (some) test cases, a code coverage report, and is containerized for ease of use.
 
 #
 ### Activation
